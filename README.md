@@ -1,2 +1,3 @@
-# Python
-building apps in python
+# gtk4python
+
+A description of this project.
