@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gtk4python
+Exec=gtk4python
+Icon=org.gnome.Example
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
